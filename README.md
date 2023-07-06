@@ -6,3 +6,12 @@ to install it, install the zip file extract it or open it depends on what softwa
 # Kay-the-ChatBot version 1.1
 
 its the same run the .py file. (read all the TXT files please) version 1.1 (the response update)
+# How to open kay on Linux
+
+use the terminal -
+
+cd /path/to/kay
+
+python3 "kay version 1.1.py"
+
+say goodbye or bye or press ctrl + C to exit
