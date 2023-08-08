@@ -15,3 +15,8 @@ cd /path/to/kay
 python3 "kay version 1.1.py"
 
 say goodbye or bye or press ctrl + C to exit
+
+# Kay-the-Chatbot version 1.2
+
+the same as 1.1.
+
